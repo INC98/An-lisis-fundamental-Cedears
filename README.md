@@ -1,6 +1,6 @@
 # Análisis-fundamental-Cedears
 
-Los analistas fundamentales analizan 5 partes de la empresa: capacidad de pagar deudas al corto plazo, capacidad de pagar deudas al largo plazo, la capacidad de generar dinero que tiene la empresa, la capacidad de generar ganancias y la valuacion actual de la acción.
+Los analistas fundamentales analizan 5 partes de la empresa: capacidad de pagar deudas al corto plazo, capacidad de pagar deudas al largo plazo, la capacidad de generar dinero que tiene la empresa, la capacidad de generar ganancias y la valuación actual de la acción.
 En base a los ratios se puede saber si la empresa es potable para invertir o no.
 
 Para esto se creo un script con el objetivo de automatizar la obtención de los ratios de los cedears.
