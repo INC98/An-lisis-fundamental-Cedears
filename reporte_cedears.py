@@ -1,9 +1,3 @@
-# liquidez: capacidad de pagar sus deudas a corto plazo(12 meses):total activo corriente / total pasivo corriente -> si da positivo lo puede pagar.
-# solvencia: capacidad de pagar sus deudas a largo plazo(12 meses para adelante): activos totales / pasivos totales -> tiene que dar positivo
-# eficiencia: Tiene la capacidad de Vender y reponer lo que tiene. Ir a ratios y ver si la parte de rotacion de activos esta entre 1 o 2. Al ser google una empresa que presta servicios, capaz no es un indicador que me llegue a afectar o preocupar tanto. En cambio apple por ejemplo si vende productos como su ganancia principal. -> es la capacidad de venta
-# rentabilidad: Ir a la seccion de estado de resultados. Poner la tabla en anual. (Ingreso neto/ingresos totales)*100. Hacerlo en todos los años. Creo que tiene que estar entre 20 y 30 -> es el dinero que le queda a la empresa
-# Valuacion: comparacion de su precio actual con las empresas competidoras (creo) -> se me ocurre armar una columna que diga que tipo de empresa es (ej: tecnologica) y ahi filtro desp en el excel los valores que hay que buscar y los comparo
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
