@@ -1,12 +1,12 @@
-# Análisis-fundamental-Cedears
+# Análisis-fundamental-CEDEARs
 
 Los analistas fundamentales analizan 5 partes de la empresa: capacidad de pagar deudas al corto plazo, capacidad de pagar deudas al largo plazo, la capacidad de generar dinero que tiene la empresa, la capacidad de generar ganancias y la valuación actual de la acción.
 En base a los ratios se puede saber si la empresa es potable para invertir o no.
 
-Para esto se creo un script con el objetivo de automatizar la obtención de los ratios de los cedears.
+Para esto se creo un script con el objetivo de automatizar la obtención de los ratios de los CEDEARs.
 
 El output es un excel que presenta distintas columnas:
-- Ticker: Nombre por el cual se encontrara la accion y el cedear.
+- Ticker: Nombre por el cual se encontrara la accion y el CEDEAR.
 - Liquidez: Es cuan capaz es la empresa de pagar sus deudas en el corto plazo, indica si la empresa va a quebrar en el corto plazo o no. Si el número da 0.5 para abajo se descarta, 1 resultado ok,  1.5 resultado bueno y de 2 para arriba excelente. Mientras mas lejos del 1 esta, mas liquida es.
 - Solvencia: Es lo mismo que la liquidez pero en el largo plazo. Se ve si la empresa es viable a largo plazo y que no va a quebrar. Si el numero es menor de 0.5 se descarta, 1 resultado ok,  1.5 resultado bueno y 2 para arriba excelente. Mas lejos del 1 esta, mas solvente es. 
 - Eficiencia: Capacidad de generar ingresos de la empresa. El número dice cuan buena es la empresa para rotar el dinero que tiene. Si da como resultado 1 estaria ok, 2 es un resultado decente, 4 o 5 para arriba excelente rotación de activos. Igualmente depende de la empresa ya que en las de servicios no hay tanta rotación de activos.
