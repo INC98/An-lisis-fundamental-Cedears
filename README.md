@@ -22,8 +22,11 @@ Para empresas mineras, bancos, etc. lo mas fácil es ver si se mantuvo en un pro
 - P/B industria: Es el P/B promedio de la competencia. Comparar el P/B de la empresa para ver si es mayor, menor o igual al promedio de la industria. El objetivo es buscar que este correctamente valuada o subvaluada para poder invertir.
 
 El código esta hecho en Python y se utilizaron las librerias requests, BeautifulSoup, pandas, tqdm.
+
 Para obtener el nombre de las acciones o mas conocido como Tickers, se utilizaron los publicados en https://www.invertironline.com/
+
 Para obtener los resultados de Liquidez, Solvencia, Eficiencia y Rentabilidad se utilizo https://investing.com/
+
 Para obtener las valuaciones de la empresa e industria, se utilizo https://wallmine.com/
 
 
